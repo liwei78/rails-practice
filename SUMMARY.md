@@ -1,7 +1,7 @@
 # 目录
 
 * [前言](README.md)
-* Ruby on Rails 概述
+* [Ruby on Rails 概述](Chapter_1/summary.md)
     * [Ruby on Rails 开发环境介绍](Chapter_1/1.1.md)
     * [Rails 文件简介](Chapter_1/1.2.md)
     * [用户界面（UI）设计](Chapter_1/1.3.md)
