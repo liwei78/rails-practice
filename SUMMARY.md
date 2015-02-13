@@ -1,11 +1,11 @@
 # 目录
 
 * [前言](README.md)
-* [Ruby on Rails 概述](Chapter_1/summary.md)
+* 1 [Ruby on Rails 概述](Chapter_1/summary.md)
     * [Ruby on Rails 开发环境介绍](Chapter_1/1.1.md)
     * [Rails 文件简介](Chapter_1/1.2.md)
     * [用户界面（UI）设计](Chapter_1/1.3.md)
-* [scaffold 命令](Chapter_2/summary.md)
+* 2 [scaffold 命令](Chapter_2/summary.md)
     * [什么是 scaffold](Chapter_2/2.1.md)
     * [REST](Chapter_2/2.2.md)
         * 什么是 REST
@@ -15,7 +15,7 @@
         * 嵌套的 routes
         * route 中的 namespace
         * route 中的 module
-* Rails 中的 View
+* 3 [Rails 中的 View](Chapter_3/summary.md)
     * scaffold 创建的 views
     * 常用的 tag
     * yield 和 content_for
@@ -30,13 +30,12 @@
     * haml，一个清洁的方案
     * 安全的 liquid
     * sanitize，让页面变得安全
-* Rails 中的 Model
+* 4 [Rails 中的 Model](Chapter_4/summary.md)
     * CRUD
     * Migration
-    * query
     * 避免 N + 1
     * 慎用 scope
-* Rails 中的 Model 关联
+* 5 [Rails 中的 Model 关联](Chapter_5/summary.md)
     * 关联
     * None
     * 多态关联
@@ -58,7 +57,7 @@
     * 关联中的 callback
     * 扩展关联方法
     * 单表继承
-* Model 中的校验
+* 6 [Model 中的校验](Chapter_6/summary.md)
     * 触发 validations
     * 不触发 validations
     * valid? 和 invalid?
@@ -66,18 +65,18 @@
     * 校验中的辅助选项
     * 操作 errors
     * 在 views 显示 errors 信息
-* 深入 Model
+* 7 [深入 Model](Chapter_7/summary.md)
     * callback
     * 动态查询
     * Find by SQL
     * exists?
     * 计算
     * explain
-* Rspec 测试 Model
+* 8 [Rspec 测试 Model](Chapter_8/summary.md)
     * CURD 测试
     * relations 测试
     * validations 测试
-* Rails 中的 Controller
+* 9 [Rails 中的 Controller](Chapter_9/summary.md)
     * request 和 response
     * 资源复数命名
     * 继承自 ApplicationController
@@ -109,7 +108,7 @@
         * 如何控制 C 里的业务逻辑
         * 如何管理 controller
     * Controller 测试
-* Rails 加分项
+* 10 [Rails 加分项](Chapter_10/summary.md)
     * assets
         * 文件位置
         * .erb
@@ -118,7 +117,7 @@
     * i18n
         * 配置
         * 读取
-    * rake
+    * Rake 任务
     * debug
         * views 中测试
         * 代码中测试
@@ -128,7 +127,7 @@
     * 安全的 Rails
     * git
     * github，你的最佳简历
-* 在云服务器部署 Rails
+* 11 [在云服务器部署 Rails](Chapter_11/summary.md)
     * 云服务器上部署代码
     * cap
 
