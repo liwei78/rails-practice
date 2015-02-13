@@ -1,4 +1,4 @@
-# 2 scaffold
+# 2 scaffold 命令
 
 ## 课程概要：
 

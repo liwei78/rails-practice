@@ -5,8 +5,8 @@
     * [Ruby on Rails 开发环境介绍](Chapter_1/1.1.md)
     * [Rails 文件简介](Chapter_1/1.2.md)
     * [用户界面（UI）设计](Chapter_1/1.3.md)
-* [scaffold](Chapter_2/summary.md)
-    * [scaffold](Chapter_2/2.1.md)
+* [scaffold 命令](Chapter_2/summary.md)
+    * [什么是 scaffold](Chapter_2/2.1.md)
     * [REST](Chapter_2/2.2.md)
         * 什么是 REST
         * resources 方法
@@ -108,6 +108,7 @@
     * 如何弄乱 controller
         * 如何控制 C 里的业务逻辑
         * 如何管理 controller
+    * Controller 测试
 * Rails 加分项
     * assets
         * 文件位置
