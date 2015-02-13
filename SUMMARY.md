@@ -5,21 +5,16 @@
     * [Ruby on Rails 开发环境介绍](Chapter_1/1.1.md)
     * [Rails 文件简介](Chapter_1/1.2.md)
     * [用户界面（UI）设计](Chapter_1/1.3.md)
-* scaffold
-    * 什么是 scaffold
-    * 详解 route
-        * CRUD
+* [scaffold](Chapter_2/summary.md)
+    * [scaffold](Chapter_2/2.1.md)
+    * [REST](Chapter_2/2.2.md)
+        * 什么是 REST
         * resources 方法
+        * CRUD
+    * [深入 route](Chapter_2/2.3.md)
         * 嵌套的 routes
-        * resource 方法
         * route 中的 namespace
         * route 中的 module
-    * model，模型
-    * controller，控制器
-    * view，视图
-    * scss 和 sass
-    * coffeescript
-    * rspec 和 minitest
 * views
     * scaffold 创建的 views
     * 常用的 tag
