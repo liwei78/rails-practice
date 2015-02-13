@@ -15,7 +15,7 @@
         * 嵌套的 routes
         * route 中的 namespace
         * route 中的 module
-* views
+* Rails 中的 View
     * scaffold 创建的 views
     * 常用的 tag
     * yield 和 content_for
@@ -30,13 +30,13 @@
     * haml，一个清洁的方案
     * 安全的 liquid
     * sanitize，让页面变得安全
-* model
+* Rails 中的 Model
     * CRUD
-    * migration
+    * Migration
     * query
     * 避免 N + 1
     * 慎用 scope
-* model 和 model
+* Rails 中的 Model 关联
     * 关联
     * None
     * 多态关联
@@ -58,7 +58,7 @@
     * 关联中的 callback
     * 扩展关联方法
     * 单表继承
-* model 中的校验
+* Model 中的校验
     * 触发 validations
     * 不触发 validations
     * valid? 和 invalid?
@@ -66,18 +66,18 @@
     * 校验中的辅助选项
     * 操作 errors
     * 在 views 显示 errors 信息
-* model 其他
+* 深入 Model
     * callback
     * 动态查询
     * Find by SQL
     * exists?
     * 计算
     * explain
-* Rspec 测试 model
+* Rspec 测试 Model
     * CURD 测试
     * relations 测试
     * validations 测试
-* controller
+* Rails 中的 Controller
     * request 和 response
     * 资源复数命名
     * 继承自 ApplicationController
@@ -127,7 +127,7 @@
     * 安全的 Rails
     * git
     * github，你的最佳简历
-* 部署 Rails
+* 在云服务器部署 Rails
     * 云服务器上部署代码
     * cap
 
