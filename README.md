@@ -19,12 +19,16 @@
 * 命令小写
 * 作为名词时，首字母大写，作为命令时 小写。Rails，Ruby 同。
 * 专有名词不翻译，比如 views 特指 Rails 中的视图，model 指数据库模型，controller 指控制器，helper 指辅助方法。这些作为 Rails 特有概念直接使用英文单词。
-* 文件目录不大写
 
-# 声明
+# 视频
 
 本书内容基于极客学院 《Rails 实践》系列视频的文字大纲整理而成，在编写时，一遍整理视频内容，一遍整理知识点和文字讲稿，希望两者互相补充，做到有条有理。文字版内容多与视频内容。根据本书章节解构所录制的《Rails 实践》系列视频，目前正在录制中，将在极客学院发布。
 
 # 教程代码
 
 [https://github.com/liwei78/rails-practice-code](https://github.com/liwei78/rails-practice-code)
+
+
+# 感谢
+
+感谢所有关注过 [里克自习室](http://railser.cn/) 的朋友们，感谢 [Ruby China 社区](https://ruby-china.org)。请在 [这里](https://github.com/liwei78/rails-practice/issues) 写下你的意见和建议。
