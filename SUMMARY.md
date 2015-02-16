@@ -2,13 +2,11 @@
 
 * [写在前面](README.md)
 * 第一章 Ruby on Rails 概述
-   * [概要](Chapter_1/summary.md)
    * [1.1 Ruby on Rails 开发环境介绍](Chapter_1/1.1.md)
    * [1.2 Rails 文件简介](Chapter_1/1.2.md)
    * [1.3 用户界面（UI）设计](Chapter_1/1.3.md)
 * 第二章 scaffold 命令
-   * [概要](Chapter_2/summary.md)
-   * [什么是 scaffold](Chapter_2/2.1.md)
+   * [用 scaffold 创建资源](Chapter_2/2.1.md)
    * [REST](Chapter_2/2.2.md)
    * [深入 route](Chapter_2/2.3.md)
 * 第三章 Rails 中的 View
@@ -129,4 +127,5 @@
    * [概要](Chapter_11/summary.md)
    * 云服务器上部署代码
    * cap
+* [谁是里克](ABOUTME.md)
 
