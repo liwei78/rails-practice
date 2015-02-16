@@ -10,13 +10,7 @@
    * [概要](Chapter_2/summary.md)
    * [什么是 scaffold](Chapter_2/2.1.md)
    * [REST](Chapter_2/2.2.md)
-       * 什么是 REST
-       * resources 方法
-       * CRUD
    * [深入 route](Chapter_2/2.3.md)
-       * 嵌套的 routes
-       * route 中的 namespace
-       * route 中的 module
 * 第三章 Rails 中的 View
    * [概要](Chapter_3/summary.md)
    * [scaffold 创建的 views](Chapter_3/3.1.md)
