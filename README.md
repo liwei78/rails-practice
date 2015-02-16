@@ -19,6 +19,7 @@
 * 命令小写
 * 作为名词时，首字母大写，作为命令时 小写。Rails，Ruby 同。
 * 专有名词不翻译，比如 views 特指 Rails 中的视图，model 指数据库模型，controller 指控制器，helper 指辅助方法。这些作为 Rails 特有概念直接使用英文单词。
+* 专有名词首按照约定书写，如 iPhone，iMac。
 
 # 视频
 
