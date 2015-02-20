@@ -2,29 +2,17 @@
 
 * [写在前面](README.md)
 * 第一章 Ruby on Rails 概述
-   * [1.1 Ruby on Rails 开发环境介绍](Chapter_1/1.1.md)
-   * [1.2 Rails 文件简介](Chapter_1/1.2.md)
-   * [1.3 用户界面（UI）设计](Chapter_1/1.3.md)
+   * [Ruby on Rails 开发环境介绍](Chapter_1/1.1.md)
+   * [Rails 文件简介](Chapter_1/1.2.md)
+   * [用户界面（UI）设计](Chapter_1/1.3.md)
 * 第二章 scaffold 命令
    * [用 scaffold 创建资源](Chapter_2/2.1.md)
    * [REST](Chapter_2/2.2.md)
    * [深入 route](Chapter_2/2.3.md)
 * 第三章 Rails 中的 View
-   * [概要](Chapter_3/summary.md)
-   * [scaffold 创建的 views](Chapter_3/3.1.md)
-   * 常用的 tag
-   * yield 和 content_for
-   * partial，局部模板
-   * helpers， 辅助方法
-   * form_for
-   * form 中的 helper
-   * 上传文件
-   * 使用 js.erb 响应 ajax form 请求
-   * 使用 jquery callback 响应 ajax form 请求
-   * views 中不要做的几件事
-   * haml，一个清洁的方案
-   * 安全的 liquid
-   * sanitize，让页面变得安全
+   * [页面（view）和辅助方法（helper）](Chapter_3/3.1.md)
+   * [页面中的 ajax](Chapter_3/3.2.md)
+   * [构建更好的页面](Chapter_3/3.3.md)
 * 第四章 Rails 中的 Model
    * [概要](Chapter_4/summary.md)
    * CRUD
