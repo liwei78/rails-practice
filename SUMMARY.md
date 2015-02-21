@@ -9,8 +9,8 @@
    * [用 scaffold 创建资源](Chapter_2/2.1.md)
    * [REST](Chapter_2/2.2.md)
    * [深入 route](Chapter_2/2.3.md)
-* 第三章 Rails 中的 View
-   * [页面（view）和辅助方法（helper）](Chapter_3/3.1.md)
+* 第三章 Rails 中的视图（View）
+   * [页面和辅助方法](Chapter_3/3.1.md)
    * [页面中的 ajax](Chapter_3/3.2.md)
    * [构建更好的页面](Chapter_3/3.3.md)
 * 第四章 Rails 中的 Model
