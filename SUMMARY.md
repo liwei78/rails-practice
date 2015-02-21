@@ -13,14 +13,12 @@
    * [页面和辅助方法](Chapter_3/3.1.md)
    * [页面中的 ajax](Chapter_3/3.2.md)
    * [构建更好的页面](Chapter_3/3.3.md)
-* 第四章 Rails 中的 Model
-   * [概要](Chapter_4/summary.md)
+* 第四章 Rails 中的模型（Model）
    * CRUD
    * Migration
    * 避免 N + 1
    * 慎用 scope
-* 第五章 Rails 中的 Model 关联
-   * [概要](Chapter_5/summary.md)
+* 第五章 Rails 中的模型（Model）关联
    * 关联
    * None
    * 多态关联
@@ -42,8 +40,7 @@
    * 关联中的 callback
    * 扩展关联方法
    * 单表继承
-* 第六章 Model 中的校验
-   * [概要](Chapter_6/summary.md)
+* 第六章 模型（Model）中的校验
    * 触发 validations
    * 不触发 validations
    * valid? 和 invalid?
@@ -51,8 +48,7 @@
    * 校验中的辅助选项
    * 操作 errors
    * 在 views 显示 errors 信息
-* 第七章 深入 Model
-   * [概要](Chapter_7/summary.md)
+* 第七章 深入模型（Model）
    * callback
    * 动态查询
    * Find by SQL
@@ -60,12 +56,10 @@
    * 计算
    * explain
 * 第八章 Rspec 测试 Model
-   * [概要](Chapter_8/summary.md)
    * CURD 测试
    * relations 测试
    * validations 测试
-* 第九章 Rails 中的 Controller
-   * [概要](Chapter_9/summary.md)
+* 第九章 Rails 中的控制器（Controller）
    * request 和 response
    * 资源复数命名
    * 继承自 ApplicationController
@@ -98,9 +92,8 @@
        * 如何管理 controller
    * Controller 测试
 * 第十章 Rails 加分项
-   * [概要](Chapter_10/summary.md)
-   * [10.1 Assets 管理](Chapter_10/10.1.md)
-   * [10.2 Email 配置](Chapter_10/10.2.md)
+   * [Assets 管理](Chapter_10/10.1.md)
+   * [Email 配置](Chapter_10/10.2.md)
    * active job
    * i18n
    * Rake 任务
@@ -112,7 +105,6 @@
    * git
    * github，你的最佳简历
 * 第十一章 在云服务器部署 Rails
-   * [概要](Chapter_11/summary.md)
    * 云服务器上部署代码
    * cap
 * [谁是里克](ABOUTME.md)
