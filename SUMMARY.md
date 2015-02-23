@@ -12,6 +12,7 @@
 * 第三章 Rails 中的视图（View）
    * [页面和辅助方法](Chapter_3/3.1.md)
    * [表单（Form）](Chapter_3/3.2.md)
+   		* [搜索框表单（GET）](Chapter_3/3.2.md#)
    * [页面中的 ajax](Chapter_3/3.3.md)
    * [构建更好的页面](Chapter_3/3.4.md)
 * 第四章 Rails 中的模型（Model）
