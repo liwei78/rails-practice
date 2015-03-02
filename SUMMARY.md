@@ -93,8 +93,8 @@
        * 如何管理 controller
    * Controller 测试
 * 第十章 Rails 加分项
-   * [Assets 管理](Chapter_10/10.1.md)
-   * [Email 配置](Chapter_10/10.2.md)
+   * Assets 管理
+   * Email 配置
    * active job
    * i18n
    * Rake 任务
