@@ -8,19 +8,19 @@
 * 第二章 scaffold 命令
    * [用 scaffold 创建资源](Chapter_2/2.1.md)
    * [REST](Chapter_2/2.2.md)
-   * [深入 route](Chapter_2/2.3.md)
-* 第三章 Rails 中的视图（View）
+   * [深入路由（routes）](Chapter_2/2.3.md)
+* 第三章 Rails 中的视图
    * [页面和辅助方法](Chapter_3/3.1.md)
    * [表单（Form）](Chapter_3/3.2.md)
    * [视图（View）中的 ajax 交互](Chapter_3/3.3.md)
    * [构建更好的页面](Chapter_3/3.4.md)
-* 第四章 Rails 中的模型（Model）
+* 第四章 Rails 中的模型
    * [模型（Model）的基础操作](Chapter_4/4.1.md)
    * [模型中的关联关系](Chapter_4/4.2.md)
    * [模型中的校验](Chapter_4/4.3.md)
    * [深入 ActiveRecord](Chapter_4/4.4.md)
    * [模型的 Rspec 测试](Chapter_4/4.5.md)
-* 第五章 Rails 中的控制器（Controller）
+* 第五章 Rails 中的控制器
    * [控制器中的方法](Chapter_5/5.1.md)
    * [会话（Session）](Chapter_5/5.2.md)
    * [深入控制器](Chapter_5/5.3.md)
