@@ -5,7 +5,7 @@
    * [Ruby on Rails 开发环境介绍](Chapter_1/1.1.md)
    * [Rails 文件简介](Chapter_1/1.2.md)
    * [用户界面（UI）设计](Chapter_1/1.3.md)
-* 第二章 scaffold 命令
+* 第二章 Rails 中的资源
    * [用 scaffold 创建资源](Chapter_2/2.1.md)
    * [REST](Chapter_2/2.2.md)
    * [深入路由（routes）](Chapter_2/2.3.md)
