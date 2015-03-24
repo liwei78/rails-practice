@@ -34,7 +34,7 @@
 
 # 读者反馈
 
-我们教程的文字版在 [http://rails-practice](http://rails-practice)，你可以在 [https://github.com/liwei78/rails-practice/issues](https://github.com/liwei78/rails-practice/issues) 页面写下你的问题，也可以留下意见和建议。
+本书的文字版在 [http://rails-practice](http://rails-practice)，你可以在 [https://github.com/liwei78/rails-practice/issues](https://github.com/liwei78/rails-practice/issues) 页面写下你的问题，也可以留下意见和建议。
 
 # 示例代码
 
@@ -45,3 +45,5 @@
 # 感谢
 
 感谢所有关注过 [里克的自习室](http://railser.cn/) 的朋友们，感谢 [Ruby China 社区](https://ruby-china.org)。
+
+![](http://railser.cn/uploads/weixin.jpg)
