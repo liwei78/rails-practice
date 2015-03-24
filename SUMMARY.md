@@ -6,8 +6,8 @@
    * [Rails 文件简介](Chapter_1/1.2.md)
    * [用户界面（UI）设计](Chapter_1/1.3.md)
 * 第二章 Rails 中的资源
-   * [用 scaffold 创建资源](Chapter_2/2.1.md)
-   * [REST](Chapter_2/2.2.md)
+   * [应用 scaffold 命令创建资源](Chapter_2/2.1.md)
+   * [REST 架构](Chapter_2/2.2.md)
    * [深入路由（routes）](Chapter_2/2.3.md)
 * 第三章 Rails 中的视图
    * [页面和辅助方法](Chapter_3/3.1.md)

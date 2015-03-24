@@ -4,7 +4,7 @@
 
 目前，它还在编写中。
 
-本书通过一个在线网店程序的开发过程，带领大家了解 Rails 全貌。第一章，我们安装 Ruby 和 Rails 的开发环境，并学习如何设计项目 UI。第二章，我们使用命令，创建一个 Rails 项目，并讲解其中文件的含义，使读者对 Rails 有一个整体的了解，并感受 Rails 的快捷开发。第三章，我们关注 Rails 的视图，从页面部分开始了解 MVC 框架。第四章，我们关注数据库部分，并且完成我们项目中商品，购物车，订单的数据库设计。第五章，我们在了解控制器的同时，完成我们网店的购买功能。第六章，我们学习 Rails 中的各种配置，并完成我们的项目。第七章，我们将网店在云服务器上部署运行。
+本书通过一个在线网店程序的开发过程，带领大家了解 Rails 全貌。第一章，我们安装 Ruby 和 Rails 的开发环境，并学习如何设计项目 UI。第二章，我们讲解 Rails 中的资源含义，学习 Rails 如何实现 REST 风格架构，感受 Rails 的快捷开发。第三章，我们关注 Rails 的视图，从页面部分开始了解 MVC 框架。第四章，我们关注数据库部分，并且完成我们项目中商品，购物车，订单的数据库设计。第五章，我们在了解控制器的同时，完成我们网店的购买功能。第六章，我们学习 Rails 中的各种配置，并完成我们的项目。第七章，我们将网店在云服务器上部署运行。
 
 在每一章的学习中，我会在讲解 Rails 的同时，带领大家完成网店的功能。
 
@@ -34,7 +34,7 @@
 
 # 读者反馈
 
-我们教程的文字版在 [liwei78.gitbooks.io/rails-practice/](liwei78.gitbooks.io/rails-practice/)，你可以在 [https://github.com/liwei78/rails-practice/issues](https://github.com/liwei78/rails-practice/issues) 页面写下你的问题，也可以留下意见和建议。
+我们教程的文字版在 [http://rails-practice](http://rails-practice)，你可以在 [https://github.com/liwei78/rails-practice/issues](https://github.com/liwei78/rails-practice/issues) 页面写下你的问题，也可以留下意见和建议。
 
 # 示例代码
 
