@@ -10,10 +10,10 @@
    * [REST 架构](Chapter_2/2.2.md)
    * [深入路由（routes）](Chapter_2/2.3.md)
 * 第三章 Rails 中的视图
-   * [页面和辅助方法](Chapter_3/3.1.md)
+   * [布局和辅助方法](Chapter_3/3.1.md)
    * [表单（Form）](Chapter_3/3.2.md)
-   * [视图（View）中的 ajax 交互](Chapter_3/3.3.md)
-   * [构建更好的页面](Chapter_3/3.4.md)
+   * [视图（View）中的 AJAX 交互](Chapter_3/3.3.md)
+   * [模板引擎的使用](Chapter_3/3.4.md)
 * 第四章 Rails 中的模型
    * [模型（Model）的基础操作](Chapter_4/4.1.md)
    * [模型中的关联关系](Chapter_4/4.2.md)

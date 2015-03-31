@@ -12,9 +12,21 @@
 
 > 我相信，写出正确的代码是需要理由的。
 
+# 本书视频
+
+根据本书内容录制的《Rails 实践》系列课程视频，已经在极客学院上线。
+
+* [Ruby on Rails 概述](http://www.jikexueyuan.com/course/650.html)（已发布）
+* Rails 中的资源（审核中）
+* Rails 中的视图（录制中）
+* Rails 中的模型（未开始）
+* Rails 中的控制器（未开始）
+* 完成网店项目（未开始）
+* 部署网店项目（未开始）
+
 # 本书读者
 
-本书适合期望使用 Rails 制作 Web 网站的开发者，读者需要具备基础的 HTML，JS 和 CSS 知识，并且了解一些 Ruby 语法。你可以从未使用过 Ruby 和 Rails，这没关系，本书会带领你从安装 Ruby 环境开始，直到完成这个 Rails 项目。
+本书适合期望使用 Rails 制作 Web 网站的开发者，读者需要具备基础的 HTML，JS 和 CSS 知识，并且了解 Ruby 基本语法。你可以从未使用过 Ruby 和 Rails，这没关系，本书会带领你从安装 Ruby 环境开始，直到完成这个 Rails 项目。
 
 在这里，我建议读者注册一个 github.com 账号，建立一个学习笔记的代码仓库（Repo）中。
 
