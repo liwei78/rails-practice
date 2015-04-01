@@ -16,7 +16,7 @@
 
 根据本书内容录制的《Rails 实践》系列课程视频，已经在极客学院上线。
 
-* [Ruby on Rails 概述](http://www.jikexueyuan.com/course/650.html)（已发布）
+* [Ruby on Rails 开发准备](http://www.jikexueyuan.com/course/650.html?hmsr=teacher_liweirails_c650)（已发布）
 * Rails 中的资源（审核中）
 * Rails 中的视图（录制中）
 * Rails 中的模型（未开始）
