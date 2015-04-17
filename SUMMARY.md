@@ -18,8 +18,7 @@
    * [模型（Model）的基础操作](Chapter_4/4.1.md)
    * [模型中的关联关系](Chapter_4/4.2.md)
    * [模型中的校验](Chapter_4/4.3.md)
-   * [深入 ActiveRecord](Chapter_4/4.4.md)
-   * [模型的 Rspec 测试](Chapter_4/4.5.md)
+   * [模型中的回调](Chapter_4/4.4.md)
 * 第五章 Rails 中的控制器
    * [控制器中的方法](Chapter_5/5.1.md)
    * [会话（Session）](Chapter_5/5.2.md)
