@@ -20,7 +20,7 @@
 
 * [Ruby on Rails 开发准备](http://www.jikexueyuan.com/course/650.html?hmsr=teacher_liweirails_c650)
 * [Rails 中的资源](http://www.jikexueyuan.com/course/741.html?hmsr=teacher_liweirails_c741)
-* Rails 中的视图（待上线）
+* [Rails 中的视图](http://www.jikexueyuan.com/course/788.html?hmsr=teacher_liweirails_c788)
 * Rails 中的模型（编写中）
 * Rails 中的控制器（未开始）
 * 完成网店项目（未开始）
