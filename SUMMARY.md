@@ -11,17 +11,19 @@
    * [深入路由（routes）](Chapter_2/2.3.md)
 * 第三章 Rails 中的视图
    * [布局和辅助方法](Chapter_3/3.1.md)
-   * [表单（Form）](Chapter_3/3.2.md)
-   * [视图（View）中的 AJAX 交互](Chapter_3/3.3.md)
+   * [表单](Chapter_3/3.2.md)
+   * [视图中的 AJAX 交互](Chapter_3/3.3.md)
    * [模板引擎的使用](Chapter_3/3.4.md)
 * 第四章 Rails 中的模型
-   * [模型（Model）的基础操作](Chapter_4/4.1.md)
-   * [模型中的关联关系](Chapter_4/4.2.md)
-   * [模型中的校验](Chapter_4/4.3.md)
-   * [模型中的回调](Chapter_4/4.4.md)
+   * [模型的CRUD](Chapter_4/4.1.md)
+   * [深入模型操作](Chapter_4/4.2.md)
+   * [模型中的关联关系](Chapter_4/4.3.md)
+   * [模型操作实践](Chapter_4/4.4.md)
+   * [模型中的校验](Chapter_4/4.5.md)
+   * [模型中的回调](Chapter_4/4.6.md)
 * 第五章 Rails 中的控制器
    * [控制器中的方法](Chapter_5/5.1.md)
-   * [会话（Session）](Chapter_5/5.2.md)
+   * [会话](Chapter_5/5.2.md)
    * [深入控制器](Chapter_5/5.3.md)
    * [控制器的 Rspec 测试](Chapter_5/5.4.md)
 * 第六章 完成网店项目
