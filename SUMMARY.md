@@ -15,8 +15,8 @@
    * [视图中的 AJAX 交互](Chapter_3/3.3.md)
    * [模板引擎的使用](Chapter_3/3.4.md)
 * 第四章 Rails 中的模型
-   * [模型的CRUD](Chapter_4/4.1.md)
-   * [深入模型操作](Chapter_4/4.2.md)
+   * [模型的基础操作](Chapter_4/4.1.md)
+   * [深入模型查询](Chapter_4/4.2.md)
    * [模型中的关联关系](Chapter_4/4.3.md)
    * [模型操作实践](Chapter_4/4.4.md)
    * [模型中的校验](Chapter_4/4.5.md)
