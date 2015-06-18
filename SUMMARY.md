@@ -25,16 +25,10 @@
    * [会话](Chapter_5/5.2.md)
    * [深入控制器](Chapter_5/5.3.md)
    * [控制器的 Rspec 测试](Chapter_5/5.4.md)
-* 第六章 完成网店项目
-   * [Assets 文件管理](Chapter_6/6.1.md)
-   * [邮件发送](Chapter_6/6.2.md)
-   * [后台任务](Chapter_6/6.3.md)
-   * [缓存](Chapter_6/6.4.md)
-   * [多语言包支持](Chapter_6/6.5.md)
-   * [任务和 Debug 调试](Chapter_6/6.6.md)
-   * [在线支付](Chapter_6/6.7.md)
-   * [完成项目](Chapter_6/6.8.md)
-   * [敏捷开发](Chapter_6/6.9.md)
-* 第七章 部署网店项目
-   * [生产环境部署](Chapter_7/7.1.md)
-   * [自动部署](Chapter_7/7.2.md)
+* 第六章 Rails 的配置及部署
+   * [Assets 管理](Chapter_6/6.1.md)
+   * [缓存及缓存服务](Chapter_6/6.2.md)
+   * [异步任务及邮件发送](Chapter_6/6.3.md)
+   * [I18n](Chapter_6/6.4.md)
+   * [生产环境部署](Chapter_6/6.5.md)
+   * [常用 Gem 排行](Chapter_6/6.6.md)
