@@ -1,6 +1,6 @@
 # 写在前面
 
-## 《4.5 模型中的回调》已更新（2015-6-16）!!!
+## 第四章已完成!!!
 
 你好，我是里克，从事 Rails 开发有将近八年的时间了。《Rails 实践》这本书，是我第一次编写完整的教程，对我来说，它更像是对过往经验的总结。
 
@@ -21,10 +21,9 @@
 * [Ruby on Rails 开发准备](http://www.jikexueyuan.com/course/650.html?hmsr=teacher_liweirails_c650)
 * [Rails 中的资源](http://www.jikexueyuan.com/course/741.html?hmsr=teacher_liweirails_c741)
 * [Rails 中的视图](http://www.jikexueyuan.com/course/788.html?hmsr=teacher_liweirails_c788)
-* Rails 中的模型（编写中）
-* Rails 中的控制器（未开始）
-* 完成网店项目（未开始）
-* 部署网店项目（未开始）
+* Rails 中的模型（录制中）
+* Rails 中的控制器（编写中）
+* Rails 的配置及部署（编写中）
 
 # 本书读者
 
