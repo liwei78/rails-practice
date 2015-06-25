@@ -23,7 +23,7 @@
 * [Rails 中的视图](http://www.jikexueyuan.com/course/788.html?hmsr=teacher_liweirails_c788)
 * Rails 中的模型（录制中）
 * Rails 中的控制器（编写中）
-* Rails 的配置及部署（编写中）
+* Rails 的配置及部署（已完成）
 
 # 本书读者
 
