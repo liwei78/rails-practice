@@ -22,9 +22,7 @@
    * [模型中的回调](Chapter_4/4.5.md)
 * 第五章 Rails 中的控制器
    * [控制器中的方法](Chapter_5/5.1.md)
-   * [会话](Chapter_5/5.2.md)
-   * [深入控制器](Chapter_5/5.3.md)
-   * [控制器的 Rspec 测试](Chapter_5/5.4.md)
+   * [控制器中的逻辑](Chapter_5/5.2.md)
 * 第六章 Rails 的配置及部署
    * [Assets 管理](Chapter_6/6.1.md)
    * [缓存及缓存服务](Chapter_6/6.2.md)
