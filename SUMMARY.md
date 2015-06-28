@@ -30,3 +30,4 @@
    * [I18n](Chapter_6/6.4.md)
    * [生产环境部署](Chapter_6/6.5.md)
    * [常用 Gem](Chapter_6/6.6.md)
+* [写在后面](NOTE.md)
