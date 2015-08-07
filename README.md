@@ -10,7 +10,7 @@
 
 # 阅读电子版
 
-本书为免费阅读，目前有两个指定的发布地址，一是
+本书电子版为免费阅读，目前有两个指定的发布地址：
 
 独立域名：[http://rails-practice.com/](http://rails-practice.com/)
 
