@@ -8,6 +8,14 @@
 
 > 写出正确的代码是需要理由的。
 
+# 阅读电子版
+
+本书为免费阅读，目前有两个指定的发布地址，一是
+
+独立域名：[http://rails-practice.com/](http://rails-practice.com/)
+
+极客学院wiki：[http://wiki.jikexueyuan.com/project/rails-practice/](http://wiki.jikexueyuan.com/project/rails-practice/)
+
 # 本书视频
 
 根据本书内容录制的《Rails 实践》系列课程视频，已经在极客学院上线。
@@ -78,7 +86,7 @@
 
 # 感谢
 
-感谢我的新公司及课程树团队中的每个成员。
+感谢我的公司北京迅思科技及 [课程树](http://www.lessontree.cn/) 团队中的每位成员。
 
 感谢所有关注过 [里克的自习室](http://railser.cn/) 的朋友们。
 
