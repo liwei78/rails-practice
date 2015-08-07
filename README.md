@@ -70,11 +70,11 @@
 
 # 个人微信
 
-![](geren.jpg)
+![](images/geren.jpg)
 
 # 里克的自习室微信公共账号
 
-![](railser.jpg)
+![](images/railser.jpg)
 
 # 感谢
 
