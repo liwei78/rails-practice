@@ -1,7 +1,6 @@
 - [写在前面](README.md)
 - 第一章 Ruby on Rails 概述
    - [Ruby on Rails 开发环境介绍](Chapter_1/1.1.md)
-	   - [1.1.1 Ruby 简介](Chapter_1/1.1.md#1.1.1) 
    - [Rails 文件简介](Chapter_1/1.2.md)
    - [用户界面（UI）设计](Chapter_1/1.3.md)
 - 第二章 Rails 中的资源
