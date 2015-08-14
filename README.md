@@ -76,6 +76,7 @@
 
 工作之余，担任长春心语志愿者协会网络顾问，Rails Girls China 编程教练。
 
+
 # 里克的自习室公众号
 
 ![](images/railser.jpg)
