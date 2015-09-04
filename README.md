@@ -16,17 +16,6 @@
 
 极客学院wiki：[http://wiki.jikexueyuan.com/project/rails-practice/](http://wiki.jikexueyuan.com/project/rails-practice/)
 
-# 本书视频
-
-根据本书内容录制的《Rails 实践》系列课程视频，已经在极客学院上线。
-
-* [Ruby on Rails 开发准备](http://www.jikexueyuan.com/course/650.html?hmsr=teacher_liweirails_c650)
-* [Rails 中的资源](http://www.jikexueyuan.com/course/741.html?hmsr=teacher_liweirails_c741)
-* [Rails 中的视图](http://www.jikexueyuan.com/course/788.html?hmsr=teacher_liweirails_c788)
-* Rails 中的模型（录制中）
-* Rails 中的控制器（已完成）
-* Rails 的配置及部署（已完成）
-
 # 本书读者
 
 本书适合期望使用 Rails 制作 Web 网站的开发者，读者需要具备基础的 HTML，JS 和 CSS 知识，并且了解 Ruby 基本语法。你可以从未使用过 Ruby 和 Rails，这没关系，本书会带领你从安装 Ruby 环境开始，直到完成这个 Rails 项目。
