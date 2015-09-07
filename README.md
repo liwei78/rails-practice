@@ -8,7 +8,7 @@
 
 > 写出正确的代码是需要理由的。
 
-# 阅读电子版
+## 阅读电子版
 
 本书电子版为免费阅读，目前有两个指定的发布地址：
 
@@ -16,13 +16,13 @@
 
 极客学院wiki：[http://wiki.jikexueyuan.com/project/rails-practice/](http://wiki.jikexueyuan.com/project/rails-practice/)
 
-# 本书读者
+## 本书读者
 
 本书适合期望使用 Rails 制作 Web 网站的开发者，读者需要具备基础的 HTML，JS 和 CSS 知识，并且了解 Ruby 基本语法。你可以从未使用过 Ruby 和 Rails，这没关系，本书会带领你从安装 Ruby 环境开始，直到完成这个 Rails 项目。
 
 在学习的过程中，我建议读者注册一个 github.com 账号，建立一个学习笔记的代码仓库（Repo）中。
 
-# 本书约定
+## 本书约定
 
 * 名词首字母大写。
 * 英文缩写大写。
@@ -33,7 +33,7 @@
 * 中文和英文间留有空格。
 * 命令行中，当前用户操作使用 `%` 开头，root 用户操作，用 `$` 开头。
 
-# 版权声明
+## 版权声明
 
 本书的著作权归作者李玮（署名：里克）所有。
 
@@ -49,28 +49,28 @@
 * 擅自印刷、出版本书
 * 以纸媒出版为目的，改写、改编以及摘抄本书的内容
 
-# 读者反馈
+## 读者反馈
 
 本书的文字版在 [http://rails-practice](http://rails-practice)，你可以在 [https://github.com/liwei78/rails-practice/issues](https://github.com/liwei78/rails-practice/issues) 页面写下你的问题，也可以留下意见和建议。
 
-# 示例代码
+## 示例代码
 
 [https://github.com/liwei78/rails-practice-code](https://github.com/liwei78/rails-practice-code)
 
 你可以 `fork` 这份代码到自己的代码仓库（Repo）中，修改并提交，然后向我的代码仓库提交 `Pull Request`，如果修改无异议，我将合并到 master 中。
 
-# 作者介绍
+## 作者介绍
 
 李玮，网名里克，2007年开始从事 Rails 开发，先后经历过社会化搜索引擎 deyeb，华为生活社区百草网，电商平台等开发工作。目前就职于北京迅思科技课程树研发团队。
 
 工作之余，担任长春心语志愿者协会网络顾问，Rails Girls China 编程教练。
 
 
-# 里克的自习室公众号
+## 里克的自习室公众号
 
 ![](images/railser.jpg)
 
-# 感谢
+## 感谢
 
 感谢我的公司北京迅思科技及 [课程树](http://www.lessontree.cn/) 团队中的每位成员。
 
