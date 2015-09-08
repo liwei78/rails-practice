@@ -16,6 +16,10 @@
 
 极客学院wiki：[http://wiki.jikexueyuan.com/project/rails-practice/](http://wiki.jikexueyuan.com/project/rails-practice/)
 
+## 当前版本
+
+1.0.0
+
 ## 本书读者
 
 本书适合期望使用 Rails 制作 Web 网站的开发者，读者需要具备基础的 HTML，JS 和 CSS 知识，并且了解 Ruby 基本语法。你可以从未使用过 Ruby 和 Rails，这没关系，本书会带领你从安装 Ruby 环境开始，直到完成这个 Rails 项目。
