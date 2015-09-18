@@ -55,7 +55,7 @@
 
 ## 读者反馈
 
-本书的文字版在 [http://rails-practice](http://rails-practice)，你可以在 [https://github.com/liwei78/rails-practice/issues](https://github.com/liwei78/rails-practice/issues) 页面写下你的问题，也可以留下意见和建议。
+你可以在 [https://github.com/liwei78/rails-practice/issues](https://github.com/liwei78/rails-practice/issues) 页面写下你的问题，也可以留下意见和建议。
 
 ## 示例代码
 
