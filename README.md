@@ -8,7 +8,41 @@
 
 > 写出正确的代码是需要理由的。
 
-## 阅读电子版
+## 目录
+
+* [写在前面](README.html)
+* 第一章 Ruby on Rails 概述
+   * [Ruby on Rails 开发环境介绍](Chapter_1/1.1.html)
+   * [Rails 文件简介](Chapter_1/1.2.html)
+   * [用户界面（UI）设计](Chapter_1/1.3.html)
+* 第二章 Rails 中的资源
+   * [应用 scaffold 命令创建资源](Chapter_2/2.1.html)
+   * [REST 架构](Chapter_2/2.2.html)
+   * [深入路由（routes）](Chapter_2/2.3.html)
+* 第三章 Rails 中的视图
+   * [布局和辅助方法](Chapter_3/3.1.html)
+   * [表单](Chapter_3/3.2.html)
+   * [视图中的 AJAX 交互](Chapter_3/3.3.html)
+   * [模板引擎的使用](Chapter_3/3.4.html)
+* 第四章 Rails 中的模型
+   * [模型的基础操作](Chapter_4/4.1.html)
+   * [深入模型查询](Chapter_4/4.2.html)
+   * [模型中的关联关系](Chapter_4/4.3.html)
+   * [模型中的校验](Chapter_4/4.4.html)
+   * [模型中的回调](Chapter_4/4.5.html)
+* 第五章 Rails 中的控制器
+   * [控制器中的方法](Chapter_5/5.1.html)
+   * [控制器中的逻辑](Chapter_5/5.2.html)
+* 第六章 Rails 的配置及部署
+   * [Assets 管理](Chapter_6/6.1.html)
+   * [缓存及缓存服务](Chapter_6/6.2.html)
+   * [异步任务及邮件发送](Chapter_6/6.3.html)
+   * [I18n](Chapter_6/6.4.html)
+   * [生产环境部署](Chapter_6/6.5.html)
+   * [常用 Gem](Chapter_6/6.6.html)
+* [写在后面](AFTER.html)
+
+## 电子版
 
 本书电子版为免费阅读，目前有两个指定的发布地址：
 
@@ -16,9 +50,16 @@
 
 极客学院wiki：http://wiki.jikexueyuan.com/project/rails-practice/ （已无法打开）
 
+正式域名：http://rails-practice.railsbook.cn/
+
 ## 当前版本
 
 1.1.0
+
+## 2022年7月更新说明
+
+* 启用独立的域名访问
+* 增加目录导航，方便阅读
 
 ## 2017年2月更新说明
 
