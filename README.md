@@ -130,8 +130,8 @@
 
 ## 感谢
 
-感谢北京迅思科技及 [课程树](http://www.lessontree.cn/) 团队中的每位成员。
+感谢北京迅思科技及课程树团队中的每位成员。
 
-感谢所有关注过 [里克的自习室](http://railser.cn/) 的朋友们。
+感谢所有关注过里克的自习室的朋友们。
 
-感谢 [Ruby China 社区](https://ruby-china.org)。
+感谢 [Ruby China 社区](https://ruby-china.org) 让 Ruby 和 Rails 在中国充满活力。
