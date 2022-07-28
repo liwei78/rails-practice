@@ -1,6 +1,6 @@
 # 写在前面
 
-你好，我是里克，2007年开始从事 Rails 开发工作。《Rails 实践》这本书，是我第一次编写完整的教程，对我来说，它更像是对过往经验的总结。
+你好，我是李玮，网名里克，2007年开始从事 Rails 开发工作。《Rails 实践》这本书，是我第一次编写完整的教程，对我来说，它更像是对过往经验的总结。
 
 本书通过一个在线网店程序的开发过程，带领大家了解 Rails 全貌。第一章，我们安装 Ruby 和 Rails 的开发环境，并学习如何设计项目 UI。第二章，我们讲解 Rails 中的资源含义，学习 Rails 如何实现 REST 风格架构，感受 Rails 的快捷开发。第三章，我们关注 Rails 的视图，从页面部分开始了解 MVC 框架。第四章，我们关注数据库部分，讲解 Rails 中的 M。第五章，我们在了解控制器的同时，完成我们网店的购买功能。第六章，我们学习 Rails 中的各种配置，并将它在云服务器上部署运行。
 
@@ -12,9 +12,9 @@
 
 本书电子版为免费阅读，目前有两个指定的发布地址：
 
-独立域名：[http://rails-practice.com/](http://rails-practice.com/)
+独立域名：rails-practice.com （已过期）
 
-极客学院wiki：[http://wiki.jikexueyuan.com/project/rails-practice/](http://wiki.jikexueyuan.com/project/rails-practice/)
+极客学院wiki：http://wiki.jikexueyuan.com/project/rails-practice/ （已无法打开）
 
 ## 当前版本
 
